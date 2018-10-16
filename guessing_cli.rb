@@ -1,7 +1,7 @@
 # Code your solution here!
 
 
-def guessing_game
+def run_guessing_game
   
 	puts "Guess a number betwen 1 and 6."
 	guess = rand(1..6)
