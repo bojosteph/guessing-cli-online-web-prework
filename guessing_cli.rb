@@ -1,4 +1,7 @@
 # Code your solution here!
-guess = rand(1..6)
 
-puts = "Guess a number between "
+
+puts = "Guess a number between 1 to 6"
+
+guess = gets.chomp
+
