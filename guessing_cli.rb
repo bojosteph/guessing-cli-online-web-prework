@@ -19,4 +19,4 @@ def run_guessing_game
   
 end 
 
-guessing_game
+run_guessing_game
